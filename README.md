@@ -18,5 +18,3 @@ A smarter rule-based chatbot that handles more varied user inputs using if-else 
 'python chatbot.py'
 3. Type your messages and interact with the bot.
    
-## Sample conversaton
-![chatbot.py](image.png)
